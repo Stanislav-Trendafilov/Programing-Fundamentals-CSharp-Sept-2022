@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.deps.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.genruntimeconfig.cache
