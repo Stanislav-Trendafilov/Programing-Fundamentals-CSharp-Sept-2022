@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.exe
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.deps.json
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+C:\Users\User\source\repos\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.genruntimeconfig.cache
