@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.exe
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.deps.json
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.json
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.dev.json
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfo.cs
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.dll
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+C:\Users\User\source\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.genruntimeconfig.cache
