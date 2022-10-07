@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.exe
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.deps.json
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Users\User\source\repos\Methods-Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.genruntimeconfig.cache
