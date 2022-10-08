@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.exe
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.deps.json
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.json
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.pdb
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.pdb
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.genruntimeconfig.cache
+C:\Users\User\source\repos\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csprojAssemblyReference.cache

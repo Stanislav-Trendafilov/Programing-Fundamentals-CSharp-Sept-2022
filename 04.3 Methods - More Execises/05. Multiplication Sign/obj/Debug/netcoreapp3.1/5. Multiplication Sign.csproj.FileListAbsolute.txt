@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.exe
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.deps.json
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.runtimeconfig.json
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.dll
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.pdb
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.dll
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.pdb
+C:\Users\User\source\repos\Methods - More Exercises\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.genruntimeconfig.cache
