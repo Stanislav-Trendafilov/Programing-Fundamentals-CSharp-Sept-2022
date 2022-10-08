@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Users\User\source\repos\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.genruntimeconfig.cache
