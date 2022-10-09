@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\bin\Debug\netcoreapp3.1\03.Longer Line.exe
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\bin\Debug\netcoreapp3.1\03.Longer Line.deps.json
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\bin\Debug\netcoreapp3.1\03.Longer Line.runtimeconfig.json
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\bin\Debug\netcoreapp3.1\03.Longer Line.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\bin\Debug\netcoreapp3.1\03.Longer Line.dll
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\bin\Debug\netcoreapp3.1\03.Longer Line.pdb
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\obj\Debug\netcoreapp3.1\03.Longer Line.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\obj\Debug\netcoreapp3.1\03.Longer Line.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\obj\Debug\netcoreapp3.1\03.Longer Line.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\obj\Debug\netcoreapp3.1\03.Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\obj\Debug\netcoreapp3.1\03.Longer Line.dll
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\obj\Debug\netcoreapp3.1\03.Longer Line.pdb
+C:\Users\User\source\repos\Methods - More Exercises\03.Longer Line\obj\Debug\netcoreapp3.1\03.Longer Line.genruntimeconfig.cache
