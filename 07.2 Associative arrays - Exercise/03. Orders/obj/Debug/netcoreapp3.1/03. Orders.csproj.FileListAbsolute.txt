@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.exe
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.deps.json
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.runtimeconfig.json
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.dll
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.pdb
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.dll
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.pdb
+C:\Users\User\source\repos\Associative - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.genruntimeconfig.cache

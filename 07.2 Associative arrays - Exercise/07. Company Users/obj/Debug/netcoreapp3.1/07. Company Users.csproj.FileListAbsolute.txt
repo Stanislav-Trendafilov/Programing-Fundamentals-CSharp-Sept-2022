@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.exe
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.deps.json
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.json
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.dll
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.dll
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\Users\User\source\repos\Associative - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.genruntimeconfig.cache

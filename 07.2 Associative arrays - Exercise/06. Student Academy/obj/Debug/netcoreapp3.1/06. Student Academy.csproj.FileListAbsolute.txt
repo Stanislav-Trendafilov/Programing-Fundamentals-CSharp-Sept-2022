@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.exe
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.deps.json
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.runtimeconfig.json
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.dll
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.pdb
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.dll
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.pdb
+C:\Users\User\source\repos\Associative - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.genruntimeconfig.cache

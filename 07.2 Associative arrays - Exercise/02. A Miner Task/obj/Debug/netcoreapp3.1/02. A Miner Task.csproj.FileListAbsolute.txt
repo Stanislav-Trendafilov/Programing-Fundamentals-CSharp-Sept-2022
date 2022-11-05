@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\User\source\repos\Associative - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.genruntimeconfig.cache
