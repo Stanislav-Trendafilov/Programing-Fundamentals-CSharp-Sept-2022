@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.exe
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.deps.json
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+C:\Users\User\source\repos\Text Pocessing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.genruntimeconfig.cache

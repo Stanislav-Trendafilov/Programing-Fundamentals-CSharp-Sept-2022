@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Users\User\source\repos\Text Pocessing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.genruntimeconfig.cache
