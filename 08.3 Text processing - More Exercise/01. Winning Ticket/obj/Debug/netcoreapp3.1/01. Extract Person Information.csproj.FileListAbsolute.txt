@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Extract Person Information.exe
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Extract Person Information.deps.json
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.json
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Extract Person Information.dll
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Extract Person Information.pdb
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Extract Person Information.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfo.cs
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Extract Person Information.dll
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Extract Person Information.pdb
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Extract Person Information.genruntimeconfig.cache

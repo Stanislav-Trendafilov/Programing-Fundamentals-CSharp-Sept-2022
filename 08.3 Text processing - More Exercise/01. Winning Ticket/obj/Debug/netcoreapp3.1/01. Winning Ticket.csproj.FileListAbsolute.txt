@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.exe
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.deps.json
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.runtimeconfig.json
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.dll
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.pdb
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.AssemblyInfo.cs
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.dll
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.pdb
+C:\Users\User\source\repos\Text processing - More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.genruntimeconfig.cache
