@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MU7H0jDdk+1GzwiENLChOgyQgSPWTXb4PL6vcVwwICUyX/DxWc3RDwAN/9oCiDEtnPIu/PdJtjG9mX8fSnESbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Regular Expressions - Exercise\\02. Race\\02. Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Njj684Gl91pcxlgxAvmgm6KcKukWjYSKpe4lshL61iYUlIX2r6t1F7dxaUEU5V81xJvjzJ34oDQu79PcvJnHEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Regular Expressions - Exercise\\01. Furniture\\01. Furniture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
